@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43500230111",
+    "project_id": "crypto-currency-dbceb",
+    "storage_bucket": "crypto-currency-dbceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43500230111:android:cd24e3aefdb13dbdd2606a",
+        "android_client_info": {
+          "package_name": "mark.crypto.crypto_currency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43500230111-f5c8jl7gqofib95p7s3qo8or08bjdg7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlu2fdRGDiN7tU1dQN5JlTtOj7_EmWVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43500230111-f5c8jl7gqofib95p7s3qo8or08bjdg7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
